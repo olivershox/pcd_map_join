@@ -1,0 +1,2 @@
+/usr/bin/ar qc libdump_map.a CMakeFiles/dump_map.dir/src/keyframe.cpp.o
+/usr/bin/ranlib libdump_map.a
